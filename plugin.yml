@@ -1,0 +1,8 @@
+name: VoteCounter
+main: me.adampine.VoteCounterMain
+version: 0.8
+depends: [Votifier]
+commands:
+  votetop:
+    description: this does nothing
+    usage: /votetop
